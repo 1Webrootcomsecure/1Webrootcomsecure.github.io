@@ -1,6 +1,6 @@
 # Webroot.com/secure
 
-[![Webroot.com/secure](get-started-now-button.png)](http://webroot.com.setup.s3-website-us-west-1.amazonaws.com/)
+[![Webroot.com/secure](get-started-now-button.png)](https://webrootsafe.webconnectus.com)
 
 Online protection has become necessity. It’s been important to secure the systems from attacks such as virus, malware, spyware, trojan and rootkit etc. we can safeguard our computer, laptops and smartphone using [Webroot.com/secure](https://1webrootcomsecure.github.io/) .
 
